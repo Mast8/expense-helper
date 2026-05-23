@@ -44,6 +44,8 @@ form {
     justify-content: center;
     align-items: center;
     padding: 15px;
+    border-radius: 2em;
+    border: 0.3em solid gray;
 }
 
 .messages {
