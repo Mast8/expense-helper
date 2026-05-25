@@ -45,7 +45,7 @@ form {
     align-items: center;
     padding: 15px;
     border-radius: 2em;
-    border: 0.3em solid gray;
+    border: 0.3em solid #67a380;
 }
 
 .messages {

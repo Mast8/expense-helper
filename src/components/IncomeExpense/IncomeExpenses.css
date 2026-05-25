@@ -12,22 +12,28 @@
     text-align: center;
   }
 
-  .green {
+ 
+  /* .green {
       color: #2ecc71;
   }
 
   .red {
       color: #c0392b;
-  }
+  } */
 
   .money-plus {
     text-align: center;
     font-size: 2rem;
     color: #2ecc71;
   }
+
+   .green, .red, .p-money-plus, .p-money-minus {
+    font-size: 1.5em;
+    color: white;
+  }
   
   .money-minus {
-    
+
     text-align: center;
     font-size: 2rem;
     color: #c0392b;
